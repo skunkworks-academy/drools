@@ -1,7 +1,7 @@
 const config = {
   title: 'Drools Decision Automation',
   tagline: 'Self-paced, lab-driven training for Drools 10.2',
-  favicon: 'img/favicon.svg',
+  favicon: 'images/favicon-search.png',
   url: 'https://drools.skunkworksacademy.com',
   baseUrl: '/',
   organizationName: 'skunkworks-academy',
